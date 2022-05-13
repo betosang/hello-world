@@ -1,2 +1,4 @@
 # hello-world
-Intentando aprender a usar Github
+Nunca he utilizado Github.
+
+Estoy aprendiendo a usar Gitbhub para poder hacer el cosmicchimps Field Manual
